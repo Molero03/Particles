@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from numba import njit
 
 #particles
-#markersize 65 aprox 2.5 units 
+
 
 N=100
 L=20
@@ -216,6 +216,7 @@ plt.plot(np.arange(nsteps), T, color='r')
 plt.show()
 
         
+
 
 
 
