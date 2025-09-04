@@ -21,4 +21,4 @@ In order to visualize the data, you can use the program "animation.py". <br />
 ![Particles_95](https://github.com/Molero03/Particles/blob/main/particles_95.gif)
 
 
-Note: In the animation, the red particles have positive charge and the blue particles a negative charge. The grey particles are neutral and its only interaction is through random collisions with other particles.
+Note: In the animation, the red and blue particles have positive and negative charge respectively. The grey particles are neutral and its only interaction is through random collisions with other particles.
