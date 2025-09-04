@@ -6,8 +6,7 @@ In order to visualize the data, you can use the program "animation.py". <br />
 
 # # Some examples
 
-100 particles with net charge equal to 0.
-
+ 100 particles with net charge equal to 0.
 ![Particles_50](https://github.com/Molero03/Particles/blob/main/particles_50.gif)
 
 
